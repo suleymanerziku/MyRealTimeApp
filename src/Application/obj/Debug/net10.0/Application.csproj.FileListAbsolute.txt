@@ -13,3 +13,4 @@ C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Application\
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Application\obj\Debug\net10.0\refint\Application.dll
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Application\obj\Debug\net10.0\Application.pdb
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Application\obj\Debug\net10.0\ref\Application.dll
+C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Application\obj\Debug\net10.0\Application.sourcelink.json

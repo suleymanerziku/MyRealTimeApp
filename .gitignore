@@ -1,0 +1,109 @@
+# .gitignore for .NET / ASP.NET projects
+# See https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+## Build outputs
+bin/
+obj/
+
+## Visual Studio / Rider files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+## Razor / publish
+*.publish.xml
+*.azurePubxml
+
+## MSBuild generated files
+*.cache
+*.ilk
+*.pdb
+*.ipdb
+*.log
+*.tlog
+*.tgz
+*.tmp
+*.tmp_proj
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+npm-shrinkwrap.json
+
+## EF Core migrations and generated files
+**/Migrations/
+**/*Migrations*/
+**/*_Snapshot.cs
+**/*Designer.cs
+
+## Database files
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+## Local settings
+appsettings.Development.json
+secrets.json
+
+## OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Local workspace storage
+.vscode/
+
+# Ignore publish output
+publish/
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
+
+# JetBrains Rider Cache
+.idea/
+*.sln.iml
+
+# Rider system files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Ensure migrations folder patterns are ignored too
+**/Migrations/**
+**/*Migrations*/**

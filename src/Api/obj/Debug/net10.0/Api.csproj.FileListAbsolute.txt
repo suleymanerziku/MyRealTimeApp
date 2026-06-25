@@ -126,3 +126,4 @@ C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Api\bin\Debu
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\suley\OneDrive\Documents\HST\Audit Suite\MyRealTimeApp\src\Api\obj\Debug\net10.0\Api.sourcelink.json
